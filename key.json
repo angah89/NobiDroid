@@ -19,5 +19,13 @@
     "updateUrl": "https://t.me/nobidroid"
   },
   "BannedHWIDs": {},
-  "Keys": {}
+  "Keys": {
+    "Nobi": {
+      "hwid": "RESET",
+      "expireDate": "2026-05-29",
+      "isBanned": false,
+      "banReason": "",
+      "userRank": "Supreme User"
+    }
+  }
 }
