@@ -23,7 +23,7 @@
     "Nobi": {
       "hwid": "F156C46D165937A1",
       "expireDate": "2026-05-31",
-      "isBanned": false,
+      "isBanned": true,
       "banReason": "",
       "userRank": ""
     }
